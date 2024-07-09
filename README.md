@@ -1,4 +1,4 @@
-# Store-dashboard
+# Store-dashboard with PowerBI
 
 Data Preparation
 Step 1: Prepare Your Data
