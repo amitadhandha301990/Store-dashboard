@@ -1,4 +1,6 @@
 # Store-dashboard with PowerBI
+Retail store Analytics with Power BI 
+
 
 Data Preparation
 Step 1: Prepare Your Data
